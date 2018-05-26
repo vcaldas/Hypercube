@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Hypercube'
+project = 'VPrinter Cube'
 copyright = '2018, Victor Caldas'
 author = 'Victor Caldas'
 
